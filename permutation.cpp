@@ -25,7 +25,7 @@ void permuted(char *a, int k, int n) {
 
 int main() {
 
-    char a[] = "ABCDE";
+    char a[] = "ABCD";
     
     int size = (sizeof(a)/sizeof(a[0]))-2;
     
